@@ -155,8 +155,8 @@ help_string_telegraph = f'''<br>
 '''
 help = Telegraph(access_token=telegraph_token).create_page(
         title='Mirror Help',
-        author_name='lonely Mirrorbot',
-        author_url='http://t.me/Thanimaisupport',
+        author_name='spiderman Mirrorbot',
+        author_url='https://t.me/Dark_World7_4',
         html_content=help_string_telegraph,
     )["path"]
 
